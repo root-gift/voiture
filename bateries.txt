@@ -1,0 +1,4 @@
+baterie1
+baterie2
+baterie3
+baterie4
