@@ -3,3 +3,6 @@ piece Electrique 1
 piece Electrique 2
 piece Electrique 3
 KIMA_piece Electrique 4
+grosse piece electrique principale
+
+
